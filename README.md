@@ -10,3 +10,13 @@ Y este es el origen del objetivo del proyecto; un reporteador que pueda permitir
 
 Requisitos del proyecto:<br>
 PHP version: 7.4.28
+
+Usuarios:<br>
+User:Admin
+Pass:Admin123
+
+User:Editor
+Pass:Editor123
+
+User:Invitado
+Pass:Invitado123

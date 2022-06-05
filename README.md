@@ -12,11 +12,11 @@ Requisitos del proyecto:<br>
 PHP version: 7.4.28
 
 Usuarios:<br>
-User:Admin
+User:Admin<br>
 Pass:Admin123
 
-User:Editor
+User:Editor<br>
 Pass:Editor123
 
-User:Invitado
+User:Invitado<br>
 Pass:Invitado123
